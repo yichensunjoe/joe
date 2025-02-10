@@ -1,5 +1,5 @@
-import { BirthDataForm } from "./birth-data-form"
-import { SiteHeader } from "./site-header"
+import { BirthDataForm } from "./components/birth-data-form"
+import { SiteHeader } from "./components/site-header"
 
 export default function Page() {
   return (
